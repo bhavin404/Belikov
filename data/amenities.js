@@ -1,0 +1,77 @@
+export const amenitiesList = [
+  {
+    id: 'infinity-pool',
+    title: 'Crown Infinity Sky Pool',
+    category: 'Wellness & Leisure',
+    desc: 'Heated royal lap pool with underwater mood lighting and sunken champagne sun loungers overlooking Vapi skyline.',
+    icon: 'pool',
+    image: 'https://images.unsplash.com/photo-1567496898669-ee935f5f647a?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'grand-lobby',
+    title: 'Triple-Height Imperial Lobby',
+    category: 'Arrival Experience',
+    desc: 'Lavish Italian Botticino marble foyer adorned with custom crystal chandeliers, concierge reception, and waiting lounge.',
+    icon: 'lobby',
+    image: 'https://images.unsplash.com/photo-1600573472550-8090b5e0745e?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'clubhouse',
+    title: 'The Maharaja Clubhouse',
+    category: 'Elite Socializing',
+    desc: 'A 25,000 sq.ft private residents’ club with private banquet hall, cigar lounge, and billiards salon.',
+    icon: 'club',
+    image: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'mughal-gardens',
+    title: 'Mughal-Inspired Royal Lawns',
+    category: 'Nature & Serenity',
+    desc: 'Manicured royal gardens with musical fountains, reflexology stone tracks, fragrant floral avenues, and quiet meditation gazebos.',
+    icon: 'garden',
+    image: 'https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'fitness-spa',
+    title: 'Artisan Wellness Spa & Gym',
+    category: 'Health & Vitality',
+    desc: 'Equipped with LifeFitness / Technogym American machines, steam rooms, Swedish sauna, and private aerobics & yoga studio.',
+    icon: 'fitness',
+    image: 'https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'security-concierge',
+    title: '24/7 Royal Concierge & 5-Tier Security',
+    category: 'Safety & Trust',
+    desc: 'AI-monitored smart CCTV network, RFID vehicle boom barriers, biometric visitor passes, and dedicated valet service.',
+    icon: 'shield',
+    image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80',
+  },
+];
+
+export const clientReviews = [
+  {
+    name: 'Sanjaybhai Patel',
+    role: 'Industrialist & Factory Owner, GIDC Vapi',
+    property: 'Resident at Belikov Sovereign Rowhouses',
+    avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80',
+    quote: 'Moving from a traditional bungalow into Belikov’s Sovereign Rowhouse has redefined luxury for my entire family. The private elevator and personal front lawn feel like our own private palace right here on VIP Daman Road.',
+    rating: 5,
+  },
+  {
+    name: 'Dr. Neeta & Rajesh Shah',
+    role: 'Senior Consultant & Orthopedic Surgeon',
+    property: 'Owner of 3 BHK at The Imperial Grandeur',
+    avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80',
+    quote: 'The sheer ceiling height, Italian marble, and massive sunset balconies are something you only see in Mumbai or Dubai penthouses. Chauhan Sir personally guided us through the customization. 100% transparent and royal!',
+    rating: 5,
+  },
+  {
+    name: 'Kiran Desai',
+    role: 'Textile Exporter & Businessman',
+    property: 'Investor in Vapi Crown Towers',
+    avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80',
+    quote: 'In Vapi, builders rarely keep their promise of carpet area and delivery dates. Belikov delivered 2 months ahead of schedule! The appreciation on my property has already crossed 35%. Royal in deeds, not just words.',
+    rating: 5,
+  },
+];
